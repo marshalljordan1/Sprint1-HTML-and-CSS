@@ -1,4 +1,4 @@
-# [Japan Tourism Website](https://sprint1-html-and-css.vercel.app/)
+# 🔗 [Japan Tourism Website](https://sprint1-html-and-css.vercel.app/) 🔗
 
 ## About
 
